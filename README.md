@@ -1,6 +1,6 @@
 # HR-ANALYTICS DASHBOARD
 HR Analytics Dashboard using SQL and data visualization to analyze employee attrition and workforce insights.
-
+https://app.powerbi.com/view?r=eyJrIjoiOTNmZDZhZDctNTQzZC00YTExLTlmMDktNmE0MGIwNjBlNWFmIiwidCI6IjM5ZWE5YTk4LWQ5MmEtNDA2NC1iMjNlLWM2MTMwOWRjYjRlMyIsImMiOjF9
 
 ## 📌 Project Overview
 This project analyzes HR data to uncover insights about employee attrition, workforce distribution, and department performance.  
